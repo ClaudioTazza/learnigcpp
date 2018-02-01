@@ -7,7 +7,7 @@ int main() {
   bibita cocacola(5);
 
   cocacola.bevi(3);
-  cout << cocacola.getLitri(); << endl;
+  cout << cocacola.getLitri() << endl;
 
 
   return 0;
