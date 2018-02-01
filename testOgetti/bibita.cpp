@@ -1,6 +1,6 @@
 #include "bibita.h"
 
-void bibita::bibita(int nLitri){
+bibita::bibita(int nLitri){
   setLitri(nLitri);
 } //costruttore della classe bibita che prende in input il numero
   // di litri della bibita
